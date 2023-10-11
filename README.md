@@ -70,9 +70,20 @@ We are excited to share our findings and guide you through the journey of unders
 
 ### Key Findings 📈
 
-- Scope Breakdown: Highlighting scope 3 emissions as crucial in addressing environmental impact.
-- Product Focus: Emphasizing scope 3 emissions' dominance in the product life cycle.
-- Strategic Moves: Analyzing the effects of strategic decisions on emissions and revenue.
+As we delved into the Spotify Most Streamed Songs 2023 Dataset, several key insights emerged:
+
+- **Exponential Growth in Listeners**: It's unmistakable that the number of listeners has undergone exponential growth over the years. However, this surge in listenership has also brought about increased competition, with an ever-growing number of artists and songs entering the scene annually.
+
+- **Focus on 2023 Insights**: While we explored the trends over the years, we will narrow our focus to the key findings for the most recent year, 2023. For a more comprehensive understanding of each factor, you can experiment with the interactive filters in the Power BI file ('link') or refer to the provided images for a comprehensive view of the overall factors.
+
+- **Strategic Release Timing**: In 2023, a significant revelation is that the majority of highly popular songs are unveiled in February, typically around the middle of the month. This insight presents artists with a strategic choice: either to ride the wave and compete during February's music boom or strategically release their work when listeners are hungry for fresh content.
+
+- **The Ideal Key**: Our analysis indicates that 'D' is the key of choice in 2023.
+
+- **Other Key Factors**: In terms of musical mode, 'minor' tends to be the preferred mode for this key. The ideal BPM is around 122. For acousticness, it appears that a 27% threshold is the most favorable. Danceability percentages present two promising options, with 81% followed by 51% as the top contenders. Energy levels suggest two competitive ranges as well, with 63% and 48%. Instrumentalness leans toward the absence of instrumentals at 0%. Liveness registers at approximately 9%, while speechiness tends to thrive at 33%. Lastly, valence percentages present two equally compelling choices, with 50% and 56%. It's essential to note that these insights, though remarkable, signify the beginning of the creative journey. With the guidance of a music production expert and further experimentation with filters, there's potential for even more refined results.
+
+These findings provide a valuable compass for artists and creators, offering insights to guide their journey toward musical success.
+
 
 ## Data Visualizations 📊
 
