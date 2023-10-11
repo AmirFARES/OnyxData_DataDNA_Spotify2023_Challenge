@@ -74,7 +74,7 @@ As we delved into the Spotify Most Streamed Songs 2023 Dataset, several key insi
 
 - **Exponential Growth in Listeners**: It's unmistakable that the number of listeners has undergone exponential growth over the years. However, this surge in listenership has also brought about increased competition, with an ever-growing number of artists and songs entering the scene annually.
 
-- **Focus on 2023 Insights**: While we explored the trends over the years, we will narrow our focus to the key findings for the most recent year, 2023. For a more comprehensive understanding of each factor, you can experiment with the interactive filters in the Power BI file ('link') or refer to the provided images for a comprehensive view of the overall factors.
+- **Focus on 2023 Insights**: While we explored the trends over the years, we will narrow our focus to the key findings for the most recent year, 2023. For a more comprehensive understanding of each factor, you can experiment with the interactive filters in the [**Power BI file**](https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/Spotify.pbix) or refer to [**the provided images**] (https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/tree/main/SpotifyDashboard) for a comprehensive view of the overall factors.
 
 - **Strategic Release Timing**: In 2023, a significant revelation is that the majority of highly popular songs are unveiled in February, typically around the middle of the month. This insight presents artists with a strategic choice: either to ride the wave and compete during February's music boom or strategically release their work when listeners are hungry for fresh content.
 
