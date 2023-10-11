@@ -85,6 +85,28 @@ As we delved into the Spotify Most Streamed Songs 2023 Dataset, several key insi
 These findings provide a valuable compass for artists and creators, offering insights to guide their journey toward musical success.
 
 
+## Data Visualization 📊
+
+Our exploration led to the creation of numerous data visualizations, each shedding light on various aspects of the Spotify Most Streamed Songs 2023 Dataset. You can delve into the extensive collection of visualizations in the [SpotifyDashboard folder](https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/tree/main/SpotifyDashboard).
+
+In this README, we will showcase three of the most impactful visualizations:
+
+1. **Visualization 1: Exponential Growth in Listeners and Production**: This visualization illuminates the exponential growth in the number of listeners over the years, providing insights into the thriving music industry. Additionally, it showcases the remarkable increase in the production of songs. These trends offer valuable context for understanding the competition and opportunities within the music landscape.
+
+<img src="https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/SpotifyDashboard/Vis1.png" alt="Vis 1" width="670" height="209">
+
+2. **Visualization 2: Yearly Factor Comparison**: This visualization allows you to explore the differences in factors across all years compared to the most recent year, 2023. By contrasting these insights, you can gain a deeper understanding of how musical trends and preferences have evolved over time.
+
+<img src="https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/SpotifyDashboard/Vis2.png" alt="Vis 2" width="443" height="517">
+
+3. **Visualization 3: Top Factors for 2023**: This visualization spotlights the key factors contributing to the popularity of songs in 2023. It serves as a guide for aspiring artists, offering insights into the elements that can influence the creation of a new chart-topping song.
+
+<img src="https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/SpotifyDashboard/Spotify-8.png" alt="Full Gallery" width="" height="">
+
+We encourage you to explore the complete collection of visualizations in the [SpotifyDashboard folder](https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/tree/main/SpotifyDashboard) or you can experiment with the interactive filters in the [**Power BI file**](https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/Spotify.pbix)  to gain a comprehensive view of the data and its visual representations.
+
+
+
 ## Data Visualizations 📊
 
 Engage with compelling visualizations that tell the story of Apple's carbon neutrality journey:
