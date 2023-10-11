@@ -14,15 +14,9 @@ Join us in our quest to decode the melody of musical popularity and explore thes
 
 
 
-**[Link to My Submission](https://mavenanalytics.io/project/9352)**
+**[My Power BI File](https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/Spotify.pbix)**
 
-**[My Tableau Viz](https://public.tableau.com/views/MavenEnvironmentalChallengeApplesGreenhouseGasEmissions/Page1?:language=en-US&:display_count=n&:origin=viz_share_link)**
-
-## About this Project 🌐
-
-In this challenge, I delve deep into Apple's commitment to reducing carbon emissions and its goal of carbon neutrality. Through innovative visualizations, journalistic storytelling, and data transparency, I aim to inform, inspire, and raise awareness about the importance of corporate sustainability.
-
-**[Link to The Challenge](https://mavenanalytics.io/challenges/maven-environmental-challenge/27)**
+**[Link to The Challenge](https://onyxdata.co.uk/data-dna-dataset-challenge/)**
 
 ### Key Objectives 🎯
 
@@ -35,12 +29,24 @@ In this challenge, I delve deep into Apple's commitment to reducing carbon emiss
 
 ## Data Sources 📊
 
-To maintain accuracy, I rely exclusively on official Apple data from their Environmental Progress Reports. Key datasets include:
+### Key Objectives 🎯
 
-- [**greenhouse_gas_emissions.csv**](./data/apple_emissions/greenhouse_gas_emissions.csv) - Contains data on Apple's greenhouse gas emissions from 2015 to 2022, categorized by source, scope, and type.
-- [**carbon_footprint_by_product.csv**](./data/apple_emissions/carbon_footprint_by_product.csv) - Includes data files detailing the carbon footprint of iPhone models released between 2015 and 2022.
-- [**normalizing_factors.csv**](./data/apple_emissions/normalizing_factors.csv) - Provides supplementary data on Apple's revenue, market capitalization, and employee statistics during the same period as the emissions data.
-- [**normalizing_factors.csv**](./data/data_dictionary.csv) - Serves as documentation, describing the columns and variables used in the project's data files.
+For this challenge, we strived to meet the criteria set forth by the organizers:
+
+- **Visual Design**: We placed a strong emphasis on effectively visualizing the data, ensuring that our visual representations are engaging, informative, and easy to comprehend.
+
+- **Analytical Skills**: By defining key indicators, uncovering meaningful insights, and formulating calculations and metrics, we demonstrated our analytical prowess in dissecting the Spotify Most Streamed Songs 2023 Dataset.
+
+- **Narration**: We utilized data storytelling techniques to highlight the challenges and, more importantly, to propose solutions. Our narrative approach serves as a bridge between raw data and actionable insights.
+
+- **Tech Innovations**: Leveraging interactive tools, advanced features, and innovative concepts, we strived to push the boundaries of data exploration and presentation.
+
+In addition to these criteria, we initiated our journey by formulating our own problem statement and objectives:
+
+- **Identifying the factors that drive songs to be popular**: In the absence of a predefined challenge problem, we crafted our own set of objectives with a singular focus on unraveling the enigma of song popularity. Through data-driven analysis, we set out to answer the question: What makes a song popular on Spotify?
+
+Our mission involved not only fulfilling the challenge criteria but also addressing our self-imposed objectives, and the following sections will illustrate how we navigated this journey.
+
 
 ## Methodology 🚀
 
