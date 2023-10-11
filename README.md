@@ -20,17 +20,6 @@ Join us in our quest to decode the melody of musical popularity and explore thes
 
 ### Key Objectives 🎯
 
-- **Visualize Progress**: Track and portray Apple's progress toward carbon neutrality with dynamic visualizations.
-- **Highlight Reductions**: Emphasize significant reductions in greenhouse gas emissions compared to the 2015 baseline.
-- **Journalistic Narrative**: Craft a narrative that immerses the audience in Apple's sustainability journey.
-- **Raise Awareness**: Inform and educate a wide audience about corporate sustainability's impact.
-- **Inspire Action**: Motivate individuals, businesses, and policymakers to reduce carbon emissions.
-- **Transparency**: Ensure data accuracy and transparency to make informed decisions.
-
-## Data Sources 📊
-
-### Key Objectives 🎯
-
 For this challenge, we strived to meet the criteria set forth by the organizers:
 
 - **Visual Design**: We placed a strong emphasis on effectively visualizing the data, ensuring that our visual representations are engaging, informative, and easy to comprehend.
@@ -46,6 +35,18 @@ In addition to these criteria, we initiated our journey by formulating our own p
 - **Identifying the factors that drive songs to be popular**: In the absence of a predefined challenge problem, we crafted our own set of objectives with a singular focus on unraveling the enigma of song popularity. Through data-driven analysis, we set out to answer the question: What makes a song popular on Spotify?
 
 Our mission involved not only fulfilling the challenge criteria but also addressing our self-imposed objectives, and the following sections will illustrate how we navigated this journey.
+
+
+## Data Sources 📊
+
+For this project, we relied on a single [**Excel file**](./data/Onyx Data DataDNA Datatset Challenge - Spotify Most Streamed Songs 2023 Dataset - October 2023.xlsx)  as our primary data source. The file was structured with two essential sheets:
+
+- **Dataset**: This sheet contained a rich repository of data, encompassing the Spotify Most Streamed Songs for each year, spanning an impressive journey from 1930 to 2023. It served as the foundation for our analysis, enabling us to extract valuable insights and trends.
+
+- **Data Dictionary**: The supplementary sheet provided a clear and detailed reference for the dataset's columns and variables. It was instrumental in ensuring data accuracy and understanding the significance of each attribute.
+
+The data within this file laid the groundwork for our exploration, visualization, and analysis, and its comprehensive coverage allowed us to unearth the secrets behind song popularity on Spotify.
+
 
 
 ## Methodology 🚀
