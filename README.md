@@ -97,7 +97,7 @@ In this README, we will showcase three of the most impactful visualizations:
 
 2. **Visualization 2: Yearly Factor Comparison**: This visualization allows you to explore the differences in factors across all years compared to the most recent year, 2023. By contrasting these insights, you can gain a deeper understanding of how musical trends and preferences have evolved over time.
 
-<img src="https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/SpotifyDashboard/Vis2.png" alt="Vis 2" width="443" height="517">
+<img src="https://github.com/AmirFARES/OnyxData_DataDNA_Spotify2023_Challenge/blob/main/SpotifyDashboard/Vis2.png" alt="Vis 2" width="517" height="443">
 
 3. **Visualization 3: Top Factors for 2023**: This visualization spotlights the key factors contributing to the popularity of songs in 2023. It serves as a guide for aspiring artists, offering insights into the elements that can influence the creation of a new chart-topping song.
 
