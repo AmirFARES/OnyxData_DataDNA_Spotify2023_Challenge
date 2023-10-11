@@ -118,13 +118,14 @@ Looking ahead, potential areas of focus include genre comparisons, consumer beha
 
 ## Connect with Me 📫
 
-Feel free to reach out for any project-related inquiries, collaboration opportunities, or discussions. You can connect with me on [LinkedIn](https://www.linkedin.com/in/amir-f) or explore more of my data visualization projects on [GitHub](https://github.com/AmirFARES).
+Feel free to reach out for any project-related inquiries, collaboration opportunities, or discussions. You can connect with me on [LinkedIn](https://www.linkedin.com/in/amir-f), explore more of my projects on [GitHub](https://github.com/AmirFARES), and check out my portfolio [here](https://amirfares.github.io/).
 
 ## Acknowledgments 🙏
 
-I'd like to express my gratitude to the Maven Analytics Environmental Challenge for providing this opportunity to explore and visualize Apple's journey towards carbon neutrality. Special thanks to the challenge organizers for their support and guidance.
+I'd like to express my gratitude to the OnyxData for providing this opportunity to explore and visualize the Spotify dataset. Special thanks to the challenge organizers for their support and guidance and to all the sponsors.
 
-Thank you for visiting my project repository, and I'm excited to share more data-driven insights in the future! 🌍🍏
+Thank you for visiting my project repository, and I'm excited to share more data-driven insights in the future!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-f)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://amirfares.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/AmirFARES)
